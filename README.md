@@ -13,7 +13,7 @@ I’m continuously enhancing my skills in software design and architecture to bu
 Open to collaborating on backend development projects, particularly in the .NET ecosystem, as well as contributing to open-source projects that promote best practices in software development.
 
 📫 How to reach me:<br/>
-You can reach me via LinkedIn [https://www.linkedin.com/in/mohamed-said-181465177/] or email me at [mohamed.said.elsayed99@gmail.com].
+You can reach me via LinkedIn [<a> href="https://www.linkedin.com/in/mohamed-said-181465177/" target="_blank" </a>] or email me at [mohamed.said.elsayed99@gmail.com].
 
 ⚡ Fun fact:<br/>
 In my free time, I enjoy exploring new programming languages and technologies, and I’m always keen to learn something new outside of coding, like playing chess.
