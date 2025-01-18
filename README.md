@@ -1,4 +1,4 @@
-👀 About Me:
+👀 About Me:<br/>
 I am a passionate and detail-oriented .NET Developer with a strong focus on creating efficient, scalable solutions. 
 With a solid foundation in various .NET technologies, I am eager to grow professionally and share experiences with the community.
 
